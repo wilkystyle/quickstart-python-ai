@@ -2,7 +2,8 @@
 A minimal example of using the Gemini free tier in Python.
 
 ## Prerequisites
-Make sure you have [installed uv](https://docs.astral.sh/uv/getting-started/installation/).
+1. Get a [Google AI Studio API key](https://aistudio.google.com/app/api-keys)
+2. [Install uv](https://docs.astral.sh/uv/getting-started/installation/).
 
 ## Usage
 
